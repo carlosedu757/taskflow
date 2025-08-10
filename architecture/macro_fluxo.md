@@ -23,6 +23,6 @@
 - **Ingress Controller no Kubernetes** para roteamento HTTPS.
 - **Secrets gerenciados pelo Azure Key Vault**.
 - **Horizontal Pod Autoscaler** para escalar backend e frontend conforme carga.
-- **Logs centralizados** via Azure Monitor + Application Insights (Fostaria de usar um diferente, por isso a não escolha do Elastic).
+- **Logs centralizados** via Azure Monitor + Application Insights (Gostaria de usar um diferente, por isso a não escolha do Elastic).
 
 ---
